@@ -18,6 +18,7 @@
 		4D1879F91BF4E0C300233542 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1879F81BF4E0C300233542 /* Item.swift */; };
 		4D187A011BF5200100233542 /* ItemSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D187A001BF5200100233542 /* ItemSpec.swift */; };
 		4D187A031BF529FD00233542 /* CartSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D187A021BF529FD00233542 /* CartSpec.swift */; };
+		4F82E0B71D4107C70024424C /* Cart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F82E0B61D4107C60024424C /* Cart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		4D1879F81BF4E0C300233542 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		4D187A001BF5200100233542 /* ItemSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemSpec.swift; sourceTree = "<group>"; };
 		4D187A021BF529FD00233542 /* CartSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartSpec.swift; sourceTree = "<group>"; };
+		4F82E0B61D4107C60024424C /* Cart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cart.swift; sourceTree = "<group>"; };
 		58C32C13471037F1456FDBA4 /* Pods-swift-shopping-cart.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swift-shopping-cart.release.xcconfig"; path = "Pods/Target Support Files/Pods-swift-shopping-cart/Pods-swift-shopping-cart.release.xcconfig"; sourceTree = "<group>"; };
 		6E35EB39ADDF7DFC15F5DAD4 /* Pods_swift_shopping_cart.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swift_shopping_cart.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		86B80DA16DEC5DE476918AA8 /* Pods_swift_shopping_cartTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swift_shopping_cartTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -106,6 +108,7 @@
 			children = (
 				4D1879D31BF4DC3500233542 /* AppDelegate.swift */,
 				4D1879F81BF4E0C300233542 /* Item.swift */,
+				4F82E0B61D4107C60024424C /* Cart.swift */,
 				4D1879F31BF4DF8200233542 /* Resources */,
 			);
 			path = "swift-shopping-cart";
@@ -348,6 +351,7 @@
 				4D1879D61BF4DC3500233542 /* ViewController.swift in Sources */,
 				4D1879F91BF4E0C300233542 /* Item.swift in Sources */,
 				4D1879D41BF4DC3500233542 /* AppDelegate.swift in Sources */,
+				4F82E0B71D4107C70024424C /* Cart.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
